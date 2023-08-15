@@ -32,7 +32,10 @@ sh.ATL03(photonConfidence,Start_date,End_date,miny,minx,maxy,maxx)
 output : Two files are created in txt format
 
 ```
-
+"""
+    author="Sajjad Hajizade"
+    author_email="sajjad73hajizade@gmail.com"
+"""
 
 # License
 [MIT licence](./LICENSE)

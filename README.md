@@ -1,7 +1,5 @@
 # icesat2SH
 
-# icesat2SH
-
 This Python package is for downloading icesat2 points
 
 
